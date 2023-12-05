@@ -1,0 +1,5 @@
+.front{
+    background-image: url(/public/assets/image.jpg);
+    background-size: cover;
+    height: 100vh;
+}
