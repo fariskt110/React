@@ -9,6 +9,7 @@ import Student from './pages/student/Student';
 import Teacher from './pages/teacher/Teacher';
 
 function App(){
+  console.log();
   return(
     <>
     <BrowserRouter>
